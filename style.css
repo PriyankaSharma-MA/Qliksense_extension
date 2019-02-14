@@ -170,8 +170,8 @@ section, footer, header, aside, nav{
 
 /* Pattern styles */
 .mainsection {
-	display: flex;
-	background-color: #f3f3f3 !important;
+	/*display: flex;
+	background-color: #f3f3f3 !important; */
 	height:100%;
 }
 
@@ -423,7 +423,7 @@ md-menu-item {
 #material
 {
     width: 100%;
-    display: flex;
+   /* display: flex; */
 }
 #container
 {

@@ -1,6 +1,6 @@
 // JavaScript
 
-var DashboardsList='da1c7354-20dc-41c2-adfb-ff9f2ca66b9b'
-var DashboardFilter='a91577da-b164-40f6-9b75-c92dfad8b9e7'
-var DefaultLink='6272f3f4-370b-4491-8fe4-52132592f87b'
+var DashboardsList='4f2a8d2c-9678-48d4-9eae-60dd3dc54241'
+var DashboardFilter='fc693cd3-764e-486a-85b7-fc81a870b8fc'
+var DefaultLink='17a91466-cc75-46bb-b057-7c4c95725750'
 
