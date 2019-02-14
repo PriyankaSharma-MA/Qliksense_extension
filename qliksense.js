@@ -59,7 +59,7 @@ function removeLeftNavigation()
    
    $("#navigation img").each( function(){
   
-   $(this)[0].src=$(this)[0].currentSrc.replace("_dark","");
+   $(this)[0].src=$(this)[0].src.replace("_dark","");
       });
 }
 function showDashboard(event,appID)
